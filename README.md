@@ -1,7 +1,7 @@
 # Worldwise App
 
-###  A world map that tracks your footsteps into every city you can think of. 
-### Never forget your wonderful experiences and show your friends how you have wandered the world.
+A world map that tracks your footsteps into every city you can think of. 
+Never forget your wonderful experiences and show your friends how you have wandered the world.
 
 ### This project was bootstrapped with Vite and uses JSON-Server as a backend to mock a REST API.
 
