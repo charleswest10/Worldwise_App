@@ -18,7 +18,7 @@ Before you begin, ensure you have the following software installed:
 1- Clone the repository (optional)
 If you have the project on your local machine, skip to the next step. Otherwise, you can clone the repository:
 
-`git clone https://github.com/alisamirali/worldwise.git`
+`git clone https://github.com/charleswest10/Worldwise_App.git`
 
 2- Navigate to the project directory
 
